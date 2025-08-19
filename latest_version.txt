@@ -1,1 +1,1 @@
-https://github.com/bettertogethersoftware/BTS/releases/download/1.0.1/installer.exe
+https://github.com/bettertogethersoftware/Better-Together-Software/releases/download/1.0.0/bts_installer.exe
