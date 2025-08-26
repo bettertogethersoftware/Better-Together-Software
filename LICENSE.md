@@ -32,7 +32,7 @@ The software is provided **"AS IS"** without any warranties, express or implied,
 **Security Notice**:
 
 - We do not collect or attempt to access any data from your system.
-- For your security, we recommend downloading the software exclusively from our official [GitHub repository](https://github.com).
+- For your security, we recommend downloading the software exclusively from our official https://github.com/bettertogethersoftware/Better-Together-Software.
 
 The author shall not be liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or its use.
 
