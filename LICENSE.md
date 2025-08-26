@@ -1,39 +1,41 @@
-Software License Agreement
+# Software License Agreement
 
-Usage Terms
+## Usage Terms
 
-By using this software, you agree:
+By using this software, you agree to the following terms:
 
+- **Risk Acknowledgment**: You use the software at your own risk.
+- **Liability**: You will not hold the author liable for any issues arising from the use of the software.
+- **Support**:
+  - Free users: No support is provided.
+  - Subscription users: Support is available as per the subscription agreement.
+- **Usage Restrictions**: The software must not be used in mission-critical environments.
+- **Commercial Use**:
+  - Free users: Prohibited from using the software for commercial purposes.
+  - Subscription users: Permitted to use the software for commercial purposes under the terms of the subscription agreement.
 
+## Privacy Policy
 
+We prioritize your privacy:
 
+- **Data Collection**: We only collect your email address for login purposes.
+- **Subscription Data**: For subscription users, payment-related data is securely handled and stored by our third-party payment provider. We do not retain this data on our systems.
 
-You are using it at your own risk.
+## No Warranty
 
+The software is provided **"AS IS"** without any warranties, express or implied, including but not limited to:
 
+- Merchantability
+- Fitness for a particular purpose
+- Noninfringement
 
-You will not hold the author liable for any problems.
+**Security Notice**:
 
+- We do not collect or attempt to access any data from your system.
+- For your security, we recommend downloading the software exclusively from our official [GitHub repository](https://github.com).
 
+The author shall not be liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or its use.
 
-You understand this is unsupported software for free users. Subscription users may contact the author for support.
+## Copyright
 
-
-
-You will not use it in mission-critical environments.
-
-
-
-Free users are prohibited from using this software for commercial purposes. Subscription users are permitted to use this software for commercial purposes under the terms of their subscription agreement.
-
-Privacy Policy
-
-We do not collect your personal data except for the email address required for login purposes. For subscription users, payment-related data is securely stored by our third-party payment provider, and we do not retain this data on our systems.
-
-No Warranty
-
-This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. We do not collect any data from your system or attempt to access any data. For security, we advise downloading the software directly from our official GitHub repository. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
-
-Copyright
-
-Better Together Software © 2025 - All rights reserved.
+&copy; 2025 Better Together Software. All rights reserved.
