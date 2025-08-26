@@ -21,5 +21,5 @@ Perfect for developers, researchers, and content creators who rely on multiple A
 ## Resources
 
 - **Demo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=aQNZZi2t5Jg)
-- **Download**: [Get Better Together Software](https://bettertogethersoftware.com/)
+- **Website**: [Get Better Together Software](https://bettertogethersoftware.com/)
 - **Tutorial Videos**: [View the Quick Tutorial Playlist](https://www.youtube.com/watch?v=wqv18di0248&list=PLWttv3yC_JkcTF8f57yP1d9RGPR5vFqaT)
