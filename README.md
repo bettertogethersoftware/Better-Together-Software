@@ -7,7 +7,7 @@
 
 ## Overview
 
-Tired of switching between 10 AI tabs? **Better Together** is a Windows desktop app that lets you chat with ChatGPT, Claude, and other AIs side-by-side in one window, eliminating tab madness.
+Tired of switching between 10 AI tabs? **Better Together Software** is a Windows desktop app that lets you chat with ChatGPT, Claude, and other AIs side-by-side in one window, eliminating tab madness.
 
 ## Key Features
 
