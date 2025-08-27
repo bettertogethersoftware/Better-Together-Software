@@ -1,6 +1,6 @@
 # Better Together Software
 
-![Promo Image 1](https://bettertogethersoftware.com/promo/p1.jpg)
+
 ![Promo Image 2](https://bettertogethersoftware.com/promo/p2.jpg)
 ![Promo Image 3](https://bettertogethersoftware.com/promo/p3.jpg)
 ![Promo Image 4](https://bettertogethersoftware.com/promo/p4.jpg)
